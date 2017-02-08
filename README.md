@@ -1,4 +1,7 @@
 # RangeUtil
+
+## 已经转移到Coastline中去
+
 Range功能强化
 
 用4个新的操作符替代原来的Range操作符. Swfit的区间设定操作符有两个, 一个是"..." 一个是"..<"
